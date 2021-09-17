@@ -1,0 +1,22 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.desc {
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;
+  }
+  div.gallery img {
+    border-radius: 1em;
+  }
+  
+  .btn-btn {
+    font-size: 0.9rem;
+    padding: 1em 1.5em;
+  }
+  
